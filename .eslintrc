@@ -9,6 +9,7 @@
     "__DEVELOPMENT__": false
   },
   "rules": {
+    "linebreak-style": ["off"],
     "import/no-named-as-default": ["off"],
     "react/jsx-closing-tag-location": ["off"],
     "comma-dangle": ["off", "never"],
